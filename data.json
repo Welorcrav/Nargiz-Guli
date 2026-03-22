@@ -1,0 +1,195 @@
+{
+  "navbar": [
+    {
+      "logo": "Nargiz Guli",
+      "navHome": "HOME",
+      "navProduct": "PRODUCTS",
+      "navContact": "CONTACT",
+      "search": "fa-solid fa-magnifying-glass",
+      "featured": "fa-regular fa-heart",
+      "user": "fa-regular fa-user",
+      "cart": "fa-solid fa-basket-shopping"
+    }
+  ],
+  "header": [
+    {
+      "offer": "Tabiiy parvarish va 94% organik tarkib",
+      "name": "Tabiiy go'zallik siri — Botanica!",
+      "shopBtn": "Sotib olish",
+      "image": "/assets/imgs/banner1.webp"
+    },
+    {
+      "offer": "Oshxonangiz uchun mukammal tozalik",
+      "name": "Noxush hidlarni yo'qotuvchi 'Orxideya' krem-sovuni",
+      "shopBtn": "Sotib olish",
+      "image": "/assets/imgs/banner2.webp"
+    },
+    {
+      "offer": "Nozik va shirin iforlar olami",
+      "name": "Mur Mur: Parfyumlangan mayin dush geli",
+      "shopBtn": "Sotib olish",
+      "image": "/assets/imgs/banner3.webp"
+    },
+    {
+      "offer": "Idishlaringiz uchun xavfsiz va samarali tozalik",
+      "name": "Limon iforli ultra-konsentrlangan idish yuvish geli",
+      "shopBtn": "Sotib olish",
+      "image": "/assets/imgs/banner4.webp"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "iDEO: Ayollar uchun Soft Care antiperspiranti",
+      "image": "/assets/t-products/p1.png",
+      "rating": 3,
+      "currentPrice": 34.999,
+      "oldPrice": 50000,
+      "valut": "UZS"
+    },
+    {
+      "id": 2,
+      "name": "Collagen O2: Namlantiruvchi va yoshartiruvchi kunduzgi krem-flyuid",
+      "image": "/assets/t-products/p2.png",
+      "rating": 3,
+      "currentPrice": 71.999,
+      "oldPrice": 100000,
+      "valut": "UZS"
+    },
+    {
+      "id": 3,
+      "name": "Mur Mur Blanc: Parfyumlangan oziqlantiruvchi qo'l kremi",
+      "image": "/assets/t-products/p3.png",
+      "rating": 3,
+      "currentPrice": 24.999,
+      "oldPrice": 40000,
+      "valut": "UZS"
+    },
+    {
+      "id": 4,
+      "name": "LETO: SPF 50 quyoshdan himoya qiluvchi yuz kremi",
+      "image": "/assets/t-products/p4.png",
+      "rating": 3,
+      "currentPrice": 99.999,
+      "oldPrice": 120000,
+      "valut": "UZS"
+    },
+    {
+      "id": 5,
+      "name": "Umooo: 6+ yoshli bolalar uchun apelsin ta'mli tish pastasi",
+      "image": "/assets/t-products/p5.png",
+      "rating": 4,
+      "currentPrice": 25.999,
+      "oldPrice": 40000,
+      "valut": "UZS"
+    },
+    {
+      "id": 6,
+      "name": "Black Detox: Faollashtirilgan ko'mirli chuqur tozalovchi shampun",
+      "image": "/assets/t-products/p6.png",
+      "rating": 4,
+      "currentPrice": 44.999,
+      "oldPrice": 60000,
+      "valut": "UZS"
+    },
+    {
+      "id": 7,
+      "name": "J.VITA: Kollagenli va SPF 50+ himoyali BB krem",
+      "image": "/assets/t-products/p7.png",
+      "rating": 4,
+      "currentPrice": 99.999,
+      "oldPrice": 130000,
+      "valut": "UZS"
+    },
+    {
+      "id": 8,
+      "name": "Glam Team: Soft Matte — uzoq muddat saqlanuvchi ixcham upa",
+      "image": "/assets/t-products/p8.png",
+      "rating": 4,
+      "currentPrice": 69.999,
+      "oldPrice": 80000,
+      "valut": "UZS"
+    }
+  ],
+  "fProducts": [
+    {
+      "id": 1,
+      "name": "Z 7-8mm Freshwater",
+      "image": "img/p1.png",
+      "rating": 3,
+      "currentPrice": 239.52,
+      "oldPrice": 362.0
+    }
+  ],
+  "featured": {
+    "title": "Sizning go'zalligingiz — bizning ilhomimiz",
+    "description": "Faberlic bilan har kuni o'zingizga g'amxo'rlik qiling. Tabiat va ilm-fan uyg'unligi.",
+    "btnText": "To'plamni Ko'rish",
+    "image": "/assets/imgs/f_banner.jpg"
+  },
+  "top_categories": [
+    { "name": "Yuz parvarishi", "img": "/assets/t-products/p4.png" },
+    { "name": "Atirlar", "img": "/assets/f-products/f_p1.png" },
+    { "name": "Makiyaj", "img": "/assets/t-products/p8.png" },
+    { "name": "Sochlar uchun", "img": "/assets/t-products/p6.png" },
+    { "name": "Uy uchun", "img": "/assets/f-products/f_p2.png" }
+  ],
+  "bannerInfo": [
+    {
+      "banProduct": "./assets/f-products/b_img.png",
+      "banOffer": "Kayfiyatingizga mos iforni toping",
+      "banTitle": "Energiya baxsh etuvchi nafis gullar ifori",
+      "banSale": "8 soatdan ortiq saqlanuvchi ifor",
+      "banBtn": "Sotib Olish"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Michael Linda",
+      "job": "Kosmetolog",
+      "comment": "Faberlic mahsulotlari nafaqat tashqi go'zallikni, balki terining sog'lomligini ham ta'minlaydi. Kislorodli kosmetika — bu haqiqiy inqilob!",
+      "rating": 4,
+      "avatar": "./assets/testimonials/testimonial5.webp"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Jenkins",
+      "job": "Makeup Artist",
+      "comment": "Collagen O2 seriyasidan foydalanganimdan beri yuzim ancha tiniqlashdi. Kunduzgi kremi terini og'irlashtirmay namlantirishi menga juda yoqdi.",
+      "rating": 5,
+      "avatar": "./assets/testimonials/testimonial6.jpg"
+    }
+  ],
+  "features": [
+    {
+      "icon": "/assets/icons/feature1.webp",
+      "title": "Bepul yetkazib berish",
+      "description": "200 000 UZS ortiq xarid uchun"
+    },
+    {
+      "icon": "/assets/icons/feature2.webp",
+      "title": "24/7 Aloqa markazi",
+      "description": "Savollaringiz bo'lsa, biz bilan bog'laning"
+    },
+    {
+      "icon": "/assets/icons/feature3.webp",
+      "title": "100% Pulingiz qaytariladi",
+      "description": "10 kun ichida qaytarib bera olasiz"
+    },
+    {
+      "icon": "/assets/icons/feature4.webp",
+      "title": "Xavfsiz to'lovlar",
+      "description": "Click, Payme yoki naqd pul orqali"
+    }
+  ],
+  "footer": {
+    "brand": "Faberlic",
+    "description": "Biz bilan go'zalligingizni kashf eting. Kislorodli kosmetika va innovatsion parvarish mahsulotlari.",
+    "address": "Toshkent, O'zbekiston",
+    "phone": "+998 (90) 123-45-67",
+    "email": "info@faberlic.uz",
+    "offerLinks": ["Biz haqimizda", "Yetkazib berish", "To'lov turlari", "Maxfiylik siyosati"],
+    "quickLinks": ["Mening profilim", "Savatcha", "Xohishlar ro'yxati", "Ro'yxatdan o'tish"]
+  }
+}

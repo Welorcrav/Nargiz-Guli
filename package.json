@@ -1,0 +1,15 @@
+{
+  "name": "faberlic-portfolio",
+  "version": "1.0.0",
+  "description": "Faberlic portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "json-server --watch data.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.13"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
