@@ -12,6 +12,11 @@ body {
   font-family: Arial, sans-serif;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
 /* Navbar */
 #navbar {
   background: white;
@@ -32,6 +37,11 @@ body {
   color: #c08d74;
   font-weight: bold;
   cursor: pointer;
+}
+
+.logo a{
+  color: #c08d74;
+  text-decoration: none;
 }
 
 .menu {
@@ -319,6 +329,8 @@ body {
 .category-card {
   text-align: center;
   cursor: pointer;
+  width: 175px;
+  border-radius: 5px;
 }
 .category-img {
   background: #f4f4f4;
@@ -326,13 +338,16 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  object-fit: contain;
   margin-bottom: 15px;
+  border-radius: 5px;
 }
 
 .category-img img {
   width: 216px;
   height: 230px;
-  transition: 0.3s;
+  transition: all 0.3s ease-in;
+  border-radius: 5px;
 }
 
 .category-card:hover .category-img img {

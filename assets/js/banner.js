@@ -11,12 +11,14 @@ class Banner {
     this.section.innerHTML = banner
       .map(
         (ban) => `
-      <div class="ban-product"><img src="${ban.banProduct}"></div>
+      <div class="ban-product">
+        <img src="${ban.banProduct}">
+      </div>
       <div class="ban-pro-info">
         <h3>${ban.banOffer}</h3>
         <h2>${ban.banTitle}</h2>
         <h3>${ban.banSale}</h3>
-        <button class="shop-btn" style="margin-top: 10px;">${ban.banBtn}</button>
+        <button class="shop-btn" style="margin-top: 10px;"><a href="https://t.me/faberlicdnb">${ban.banBtn}</a></button>
       </div>`
       )
       .join('')

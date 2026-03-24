@@ -45,7 +45,8 @@
       "rating": 3,
       "currentPrice": 34.999,
       "oldPrice": 50000,
-      "valut": "UZS"
+      "valut": "UZS",
+      "shopBtn": "Sotib Olish"
     },
     {
       "id": 2,
@@ -54,7 +55,8 @@
       "rating": 3,
       "currentPrice": 71.999,
       "oldPrice": 100000,
-      "valut": "UZS"
+      "valut": "UZS",
+      "shopBtn": "Sotib Olish"
     },
     {
       "id": 3,
@@ -63,7 +65,8 @@
       "rating": 3,
       "currentPrice": 24.999,
       "oldPrice": 40000,
-      "valut": "UZS"
+      "valut": "UZS",
+      "shopBtn": "Sotib Olish"
     },
     {
       "id": 4,
@@ -72,7 +75,8 @@
       "rating": 3,
       "currentPrice": 99.999,
       "oldPrice": 120000,
-      "valut": "UZS"
+      "valut": "UZS",
+      "shopBtn": "Sotib Olish"
     },
     {
       "id": 5,
@@ -81,7 +85,8 @@
       "rating": 4,
       "currentPrice": 25.999,
       "oldPrice": 40000,
-      "valut": "UZS"
+      "valut": "UZS",
+      "shopBtn": "Sotib Olish"
     },
     {
       "id": 6,
@@ -90,7 +95,8 @@
       "rating": 4,
       "currentPrice": 44.999,
       "oldPrice": 60000,
-      "valut": "UZS"
+      "valut": "UZS",
+      "shopBtn": "Sotib Olish"
     },
     {
       "id": 7,
@@ -99,7 +105,8 @@
       "rating": 4,
       "currentPrice": 99.999,
       "oldPrice": 130000,
-      "valut": "UZS"
+      "valut": "UZS",
+      "shopBtn": "Sotib Olish"
     },
     {
       "id": 8,
@@ -108,7 +115,8 @@
       "rating": 4,
       "currentPrice": 69.999,
       "oldPrice": 80000,
-      "valut": "UZS"
+      "valut": "UZS",
+      "shopBtn": "Sotib Olish"
     }
   ],
   "fProducts": [

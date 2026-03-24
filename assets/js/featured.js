@@ -15,8 +15,10 @@ class FaberlicSpecial {
     categories.forEach((cat) => {
       categoriesHtml += `
         <div class="category-card">
-          <div class="category-img"><img src="${cat.img}" alt="${cat.name}"></div>
-          <button class="category-btn shop-btn">${cat.name}</button>
+          <div class="category-img">
+            <img src="${cat.img}" alt="${cat.name}">
+          </div>
+          <button class="category-btn shop-btn"><a href="https://t.me/faberlicdnb">${cat.name}</a></button>
         </div>`
     })
 
@@ -27,7 +29,7 @@ class FaberlicSpecial {
           <div class="featured-content">
             <h2 class="faberlic-title">${banner.title}</h2>
             <p class="faberlic-text">${banner.description}</p>
-            <button class="shop-btn">${banner.btnText}</button>
+            <button class="shop-btn"><a href="https://t.me/faberlicdnb">${banner.btnText}</a></button>
           </div>
         </div>
         <div class="top-categories-box">

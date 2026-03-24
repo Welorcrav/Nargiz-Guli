@@ -18,7 +18,7 @@ class Header {
         <div class="banner-content">
           <p class="offer-text">${item.offer}</p>
           <h2 class="banner-title">${item.name}</h2>
-          <button class="shop-btn">${item.shopBtn}</button>
+          <button class="shop-btn"><a href="https://t.me/faberlicdnb">${item.shopBtn}</a></button>
         </div>
       </div>`
     })

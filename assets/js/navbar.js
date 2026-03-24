@@ -23,7 +23,7 @@ class Navbar {
 
     this.navbar.innerHTML = `
       <div class="navbar-container">
-        <h1 class="logo">${info.logo}</h1>
+        <h1 class="logo"><a href="https://t.me/faberlicdnb">${info.logo}</a></h1>
         <ul class="menu">
           ${menus.map((m) => `<li><a href="${m.link}">${m.name}</a></li>`).join('')}
         </ul>

@@ -31,10 +31,10 @@ class TrendingProducts {
         <div class="product-card">
           <div class="product-img-box">
             <img src="${item.image}" alt="${item.name}">
-            <div class="product-overlay"><button class="shop-btn">Sotib Olish</button></div>
+            <div class="product-overlay"><button class="shop-btn"><a href="https://t.me/faberlicdnb">${item.shopBtn}</a></button></div>
           </div>
           <div class="product-info">
-            <div class="product-rating">${this.renderStars(item.rating)} <span style="font-size: 12px;">(126)</span></div>
+            <div class="product-rating">${this.renderStars(item.rating)} <span style="font-size: 12px;">(126) Fikrlar</span></div>
             <h3 class="product-name">${item.name}</h3>
             <div class="product-price">
               <span class="new-price">${item.currentPrice} ${item.valut}</span>
